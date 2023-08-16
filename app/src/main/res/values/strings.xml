@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Registration</string>
+    <string name="firstname">First Name</string>
+    <string name="lastname">Last Name</string>
+    <string name="Email">Email</string>
+    <string name="pno">phone Number</string>
+    <string name="gender">Gender</string>
+    <string name="p">Password</string>
+    <string name="cp">Conform password</string>
+</resources>
